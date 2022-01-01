@@ -1,4 +1,4 @@
-# InstaReport
+# InstaOp By Sannidhya
 This is a script which reports targeted instagram accounts and instagram videos in bulk.
 Version : 1.2
 
@@ -31,7 +31,7 @@ No need to install git in linux or termux
 pkg update && pkg upgrade
 pip install python
 git clone https://github.com/Crevils/InstaReport
-cd InstaReport
+cd InstaOp
 pip install -r requirements.txt
 python ReportBot.py
 ```
