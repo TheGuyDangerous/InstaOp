@@ -30,7 +30,7 @@ No need to install git in linux or termux
 ```bash
 pkg update && pkg upgrade
 pip install python
-git clone https://github.com/Crevils/InstaReport
+git clone https://github.com/TheGuyDangerous/InstaOp
 cd InstaOp
 pip install -r requirements.txt
 python ReportBot.py
@@ -39,8 +39,8 @@ python ReportBot.py
 ### WINDOWS
 [Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
 ```bash
-git clone https://github.com/Crevils/InstaReport 
-cd InstaReport
+git clone https://github.com/TheGuyDangerous/InstaOp
+cd InstaOp
 pip install -r requirements.txt
 python ReportBot.py
 ```
@@ -49,7 +49,7 @@ python ReportBot.py
 #### Alternate method for windows
 Download This [code](https://github.com/Crevils/InstaReport/archive/master.zip) and [Download python](https://www.python.org/downloads/)
 ```bash
-cd InstaReport
+cd InstaOp
 pip install -r requirements.txt
 python ReportBot.py
 ```
@@ -61,3 +61,4 @@ python ReportBot.py
 
 
 Created By Sannidhya Dubey
+For Password - Contact Me
